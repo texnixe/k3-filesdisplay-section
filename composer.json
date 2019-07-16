@@ -1,0 +1,21 @@
+{
+  "name": "texnixe/k3-filesdisplay-section",
+  "description": "Kirby 3 plugin to any file in a section.",
+  "type": "kirby-plugin",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Sonja Broda",
+      "email": "hello@sonjabroda.com"
+    }
+  ],
+  "keywords": [
+    "kirby3",
+    "kirby3-cms",
+    "kirby3-plugin",
+],
+  "require": {
+    "getkirby/composer-installer": "^1.1"
+  },
+  "license": "MIT"
+}
