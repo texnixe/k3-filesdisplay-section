@@ -8,6 +8,10 @@ use Kirby\Cms\Section;
 
 $base = Section::$types['files'];
 
+if (is_string($base)) {
+    $base = include $base;
+}
+
 return array_replace_recursive($base, [
     'props' => [
         'sortable' => function (bool $sortable = true) {
