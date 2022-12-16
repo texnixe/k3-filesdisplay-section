@@ -1,8 +1,8 @@
 {
   "name": "texnixe/k3-filesdisplay-section",
-  "description": "Kirby 3 plugin to any file in a section.",
+  "description": "Kirby 3 plugin to display any file in a section.",
   "type": "kirby-plugin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "authors": [
     {
       "name": "Sonja Broda",
